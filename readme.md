@@ -6,7 +6,7 @@
 
 1. Склонируйте репозиторий с помощью следующей команды:
    ```
-   git clone https://github.com/yourusername/ChatGPT.git
+   git clone https://github.com/Sitplek/Chatgpt_gui.git
    ```
    Замените `yourusername` на ваше имя пользователя на GitHub.
 
